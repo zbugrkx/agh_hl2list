@@ -1,0 +1,16 @@
+@@||discord.com^$important
+@@||microsoft.com^$important
+@@||*.twitter.com^$important
+@@||*.x.com^$important
+@@||twitter.com^$important
+@@||x.com^$important
+@@||*.twimg.com^$important
+@@||facebook.com^$important
+@@||google.com^$important
+@@||*.1password*.*^$important
+@@||1passwordservices.com^$important
+@@||onetrust.com^$important
+@@||reddit.com^$important
+@@||trafficmanager.net^$important
+@@||discord.com^$important
+@@||microsoft.com^$important
